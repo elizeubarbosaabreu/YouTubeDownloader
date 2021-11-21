@@ -3,7 +3,7 @@
 
 ## O que é o YouTube Downloader by PyTube?
 
-**YouTube Downloader by PyTube ** é um software simples para baixar vídeos no YouTube com a qualidade máxima. **YouTube Downloader by PyTube** usa a biblioteca
+**YouTube Downloader by PyTube** é um software simples para baixar vídeos no YouTube com a qualidade máxima. **YouTube Downloader by PyTube** usa a biblioteca
 [pytube](https://pytube.io/en/latest/), uma lib riquíssima cheia de recursos para baixar vídeos e áudio no YouTube. **YouTube Downloader by PyTube** não usa todos os recursos do pytube, apenas baixa vídeos no youtube com a qualidade máxima e também, caso o usuário tenha o **wget**, baixa a capa do vídeo...
 A interface gráfica é gerada pela lib PySimpleGUI...
 
