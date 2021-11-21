@@ -33,7 +33,7 @@ No **Windows** use os comandos abaixo para criar uma virtual env e instalar as d
 ~~~python
 
 cd Youtube-Downloader-by-PyTube
-python3 -m venv .venv
+python -m venv .venv
 source .venv\Scripts\activate.bat
 pip install -r requirements.txt
 
