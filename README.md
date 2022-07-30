@@ -16,7 +16,7 @@ Primeiramente clone este repositório com o comando abaixo:
  
 ~~~python
 
-git clone https://github.com/elizeubarbosaabreu/Youtube-Downloader-by-PyTube.git
+git clone https://github.com/elizeubarbosaabreu/YouTubeDownloader.git
 
 ~~~
 
@@ -24,7 +24,7 @@ Se estiver usando o **Linux** ou **MAC** use os comandos abaixo para criar uma v
  
 ~~~python
 
-cd Youtube-Downloader-by-PyTube
+cd YouTubeDownloader/
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
@@ -35,7 +35,7 @@ No **Windows** use os comandos abaixo para criar uma virtual env e instalar as d
  
 ~~~python
 
-cd Youtube-Downloader-by-PyTube
+cd YouTubeDownloader/
 python -m venv .venv
 source .venv\Scripts\activate.bat
 pip install -r requirements.txt
